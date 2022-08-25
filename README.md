@@ -4,6 +4,7 @@
 This repository contains the notebooks I created for my Economic Growth and Comparative Development course.
 
 1. Introduction to Jupyter and Markdown [(Notebook)](./Intro-Jupyter.ipynb) [(html)](./html/Intro-Jupyter.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Jupyter/)
+2. Introduction to Python [(Notebook)](./Intro-Python.ipynb) [(html)](./html/Intro-Python.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python/)
 
 # Copyright 
 
