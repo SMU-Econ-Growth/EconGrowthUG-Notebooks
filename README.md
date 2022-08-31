@@ -5,6 +5,7 @@ This repository contains the notebooks I created for my Economic Growth and Comp
 
 1. Introduction to Jupyter and Markdown [(Notebook)](./Intro-Jupyter.ipynb) [(html)](./html/Intro-Jupyter.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Jupyter/)
 2. Introduction to Python [(Notebook)](./Intro-Python.ipynb) [(html)](./html/Intro-Python.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python/)
+3. Introduction to Python II - Statements [(Notebook)](./Intro-Python-Statements.ipynb) [(html)](./html/Intro-Python-Statements.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python-Statements/)
 
 # Copyright 
 
