@@ -3,11 +3,17 @@
 
 This repository contains the notebooks I created for my Economic Growth and Comparative Development course.
 
+# Basics
 1. Introduction to Jupyter and Markdown [(Notebook)](./Intro-Jupyter.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Jupyter/Intro-Jupyter.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Jupyter/)
 2. Introduction to Python [(Notebook)](./Intro-Python.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python/Intro-Python.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python/)
 3. Introduction to Python II - Statements [(Notebook)](./Intro-Python-Statements.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python-Statements/Intro-Python-Statements.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python-Statements/)
 4. Introduction to Python III - Functions and Packages [(Notebook)](./Intro-Python-Functions-Packages.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python-Functions-Packages/Intro-Python-Functions-Packages.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python-Functions-Packages/)
 5. Introduction to Data Analysis with Pandas [(Notebook)](./Intro-Data-Analysis-Pandas.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Data-Analysis-Pandas/Intro-Data-Analysis-Pandas.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Data-Analysis-Pandas/)
+
+# Data Analysis
+
+6. Working with World Development Indicators [(Notebook)](./Working-with-WDI.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/Working-with-WDI.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/)
+
 
 # Copyright 
 
