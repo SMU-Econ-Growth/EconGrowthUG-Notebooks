@@ -13,6 +13,7 @@ This repository contains the notebooks I created for my Economic Growth and Comp
 # Data Analysis
 
 6. Working with World Development Indicators [(Notebook)](./Working-with-WDI.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/Working-with-WDI.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/)
+7. Working with Penn World Table [(Notebook)](./Working-with-PWT.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/Working-with-PWT.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/)
 
 
 # Copyright 
