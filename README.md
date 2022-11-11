@@ -1,5 +1,5 @@
 # Jupyter Notebooks for Economic Growth
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SMU-Econ-Growth/EconGrowthUG-binder/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSMU-Econ-Growth%252FEconGrowthUG-Notebooks%26urlpath%3Dtree%252FEconGrowthUG-Notebooks%252F%26branch%3Dmain)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SMU-Econ-Growth/EconGrowthUG-binder/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSMU-Econ-Growth%252FEconGrowthUG-Notebooks%26urlpath%3Dtree%252FEconGrowthUG-Notebooks%252F%26branch%3Dmain) [![](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2FSMU-Econ-Growth%2FEconGrowthUG-Notebooks)
 
 This repository contains the notebooks I created for my Economic Growth and Comparative Development course.
 
