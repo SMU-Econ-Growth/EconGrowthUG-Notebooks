@@ -1,5 +1,5 @@
 # Jupyter Notebooks for Economic Growth
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SMU-Econ-Growth/EconGrowthUG-binder/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSMU-Econ-Growth%252FEconGrowthUG-Notebooks%26urlpath%3Dtree%252FEconGrowthUG-Notebooks%252F%26branch%3Dmain) [![](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2FSMU-Econ-Growth%2FEconGrowthUG-Notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SMU-Econ-Growth/EconGrowthUG-binder/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSMU-Econ-Growth%252FEconGrowthUG-Notebooks%26urlpath%3Dtree%252FEconGrowthUG-Notebooks%252F%26branch%3Dmain) [![](https://deepnote.com/buttons/launch-in-deepnote-small.svg)]([https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2FSMU-Econ-Growth%2FEconGrowthUG-Notebooks](https://deepnote.com/join-team?token=2faf882f7ae14a5))
 
 This repository contains the notebooks I created for my Economic Growth and Comparative Development course.
 
@@ -12,9 +12,21 @@ This repository contains the notebooks I created for my Economic Growth and Comp
 
 # Data Analysis
 
-6. Working with World Development Indicators [(Notebook)](./Working-with-WDI.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/Working-with-WDI.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/)
-7. Working with Penn World Table [(Notebook)](./Working-with-PWT.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/Working-with-PWT.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/)
+1. Working with World Development Indicators [(Notebook)](./Working-with-WDI.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/Working-with-WDI.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/)
+2. Working with Penn World Table [(Notebook)](./Working-with-PWT.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/Working-with-PWT.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/)
+3. Working with World Development Indicators [(Notebook)](./Working-with-WDI.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/Working-with-WDI.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/)
+4. Working with Penn World Table [(Notebook)](./Working-with-PWT.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/Working-with-PWT.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/)
 
+# GIS
+1. GIS with QGIS [(Notebook)](./GIS.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20QGIS.html) 
+2. GIS with Python - Geometries [(Notebook)](./GIS with Python.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20Python.html) 
+3. GIS with Python - Rasters [(Notebook)](./GIS with Python 2.ipynb) [(html)]([/GIS with Python 2.html](https://econgrowth.github.io/GIS%20with%20Python%202.html)) 
+4. GIS with Python - Data Munging [(Notebook)](./GIS with Python 3.ipynb) [(html)]([/GIS with Python 3.html](https://econgrowth.github.io/GIS%20with%20Python%203.html)) 
+
+# Basic Economic Modelling
+1. Introduction to CGE [(Notebook)](/notebooks/IntroCGE.ipynb) [(html)](https://econgrowth.github.io/IntroCGE.html) 
+2. Dynamic Programming in Python [(Notebook)](/notebooks/DynamicProgramming.ipynb) [(html)](https://econgrowth.github.io/Dynamic%20Programming.html) 
+3. Faster Dynamic Programming with Numba [(Notebook)](Faster Computation with Numba.ipynb) [(html)](https://econgrowth.github.io/Dynamic%20Programming%20Numba.html)
 
 # Copyright 
 
