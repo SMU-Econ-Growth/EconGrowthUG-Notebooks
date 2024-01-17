@@ -19,14 +19,14 @@ This repository contains the notebooks I created for my Economic Growth and Comp
 
 # GIS
 1. GIS with QGIS [(Notebook)](./GIS.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20QGIS.html) 
-2. GIS with Python - Geometries [(Notebook)](./GIS with Python.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20Python.html) 
-3. GIS with Python - Rasters [(Notebook)](./GIS with Python 2.ipynb) [(html)]([/GIS with Python 2.html](https://econgrowth.github.io/GIS%20with%20Python%202.html)) 
-4. GIS with Python - Data Munging [(Notebook)](./GIS with Python 3.ipynb) [(html)]([/GIS with Python 3.html](https://econgrowth.github.io/GIS%20with%20Python%203.html)) 
+2. GIS with Python - Geometries [(Notebook)](./GIS-with-Python.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20Python.html) 
+3. GIS with Python - Rasters [(Notebook)](./GIS-with-Python-2.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20Python%202.html) 
+4. GIS with Python - Data Munging [(Notebook)](./GIS-with-Python-3.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20Python%203.html) 
 
 # Basic Economic Modelling
 1. Introduction to CGE [(Notebook)](/notebooks/IntroCGE.ipynb) [(html)](https://econgrowth.github.io/IntroCGE.html) 
 2. Dynamic Programming in Python [(Notebook)](/notebooks/DynamicProgramming.ipynb) [(html)](https://econgrowth.github.io/Dynamic%20Programming.html) 
-3. Faster Dynamic Programming with Numba [(Notebook)](Faster Computation with Numba.ipynb) [(html)](https://econgrowth.github.io/Dynamic%20Programming%20Numba.html)
+3. Faster Dynamic Programming with Numba [(Notebook)](Faster-Computation-with-Numba.ipynb) [(html)](https://econgrowth.github.io/Dynamic%20Programming%20Numba.html)
 
 # Copyright 
 
