@@ -8,14 +8,13 @@ This repository contains the notebooks I created for my Economic Growth and Comp
 2. Introduction to Python [(Notebook)](./Intro-Python.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python/Intro-Python.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python/)
 3. Introduction to Python II - Statements [(Notebook)](./Intro-Python-Statements.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python-Statements/Intro-Python-Statements.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python-Statements/)
 4. Introduction to Python III - Functions and Packages [(Notebook)](./Intro-Python-Functions-Packages.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python-Functions-Packages/Intro-Python-Functions-Packages.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Python-Functions-Packages/)
-5. Introduction to Data Analysis with Pandas [(Notebook)](./Intro-Data-Analysis-Pandas.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Data-Analysis-Pandas/Intro-Data-Analysis-Pandas.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Data-Analysis-Pandas/)
 
 # Data Analysis
 
-1. Working with World Development Indicators [(Notebook)](./Working-with-WDI.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/Working-with-WDI.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/)
-2. Working with Penn World Table [(Notebook)](./Working-with-PWT.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/Working-with-PWT.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/)
-3. Working with World Development Indicators [(Notebook)](./Working-with-WDI.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/Working-with-WDI.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/)
+1. Introduction to Data Analysis with Pandas [(Notebook)](./Intro-Data-Analysis-Pandas.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Data-Analysis-Pandas/Intro-Data-Analysis-Pandas.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Data-Analysis-Pandas/)
+3. More Economic Data Analysis with Pandas [(Notebook)](./More-Economic-Data-Analysis-with-Pandas.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-More-Economic-Data-Analysis-with-Pandas/More-Economic-Data-Analysis-with-Pandas.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-More-Economic-Data-Analysis-with-Pandas/)
 4. Working with Penn World Table [(Notebook)](./Working-with-PWT.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/Working-with-PWT.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/)
+5. Working with GapMinder [(Notebook)](./Working-with-WDI.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/Working-with-WDI.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/)
 
 # GIS
 1. GIS with QGIS [(Notebook)](./GIS.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20QGIS.html) 
