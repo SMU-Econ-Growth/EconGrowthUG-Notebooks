@@ -15,7 +15,7 @@ This repository contains the notebooks I created for my Economic Growth and Comp
 2. More Economic Data Analysis with Pandas [(Notebook)](./More-Economic-Data-Analysis-with-Pandas.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-More-Economic-Data-Analysis-with-Pandas/More-Economic-Data-Analysis-with-Pandas.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-More-Economic-Data-Analysis-with-Pandas/)
 3. Working with World Development Indicators [(Notebook)](./Working-with-WDI.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/Working-with-WDI.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/)
 4. Working with Penn World Table [(Notebook)](./Working-with-PWT.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/Working-with-PWT.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/)
-5. Working with GapMinder [(Notebook)](./Working-with-WDI.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/Working-with-WDI.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/)
+5. Working with GapMinder [(Notebook)](./Working-with-GapMinder.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-GapMinder/Working-with-GapMinder.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-GapMinder/)
 
 # GIS
 1. GIS with QGIS [(Notebook)](./GIS.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20QGIS.html) 
