@@ -18,10 +18,10 @@ This repository contains the notebooks I created for my Economic Growth and Comp
 5. Working with GapMinder [(Notebook)](./Working-with-GapMinder.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-GapMinder/Working-with-GapMinder.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-GapMinder/)
 
 # GIS
-1. GIS with QGIS [(Notebook)](./GIS.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20QGIS.html) 
-2. GIS with Python - Geometries [(Notebook)](./GIS-with-Python.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20Python.html) 
-3. GIS with Python - Rasters [(Notebook)](./GIS-with-Python-2.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20Python%202.html) 
-4. GIS with Python - Data Munging [(Notebook)](./GIS-with-Python-3.ipynb) [(html)](https://econgrowth.github.io/GIS%20with%20Python%203.html) 
+1. GIS with QGIS [(Notebook)](./GIS.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-GIS-with-QGIS/GIS.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-GIS-with-QGIS/) 
+2. GIS with Python - Geometries [(Notebook)](./GIS-with-Python.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-GIS-with-Python/GIS-with-Python.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-GIS-with-Python/) 
+3. GIS with Python - Rasters [(Notebook)](./GIS-with-Python-2.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-GIS-with-Python-2/GIS-with-Python-2.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-GIS-with-Python-2/) 
+4. GIS with Python - Data Munging [(Notebook)](./GIS-with-Python-3.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-GIS-with-Python-3/GIS-with-Python-3.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-GIS-with-Python-3/) 
 
 # Basic Economic Modelling
 1. Introduction to CGE [(Notebook)](/notebooks/IntroCGE.ipynb) [(html)](https://econgrowth.github.io/IntroCGE.html) 
